@@ -11,4 +11,4 @@ var gradoEstudiante="10B"
 var nombreEstudiante="samuel gil"
 var edadEstudiante=prompt("")
 console.log ("la edad del estudiante es " + edadEstudiante)
-console.log ("el estudiante ", nombreEstudiante ,"del grado" ,gradoEstudiante ,"tiene " ,edadEstudiante ,"años")
+console.log ("el estudiante "+ nombreEstudiante +"del grado" +gradoEstudiante +"tiene " +edadEstudiante +"años")
