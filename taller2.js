@@ -1,4 +1,4 @@
-//taller 2 cuadrado
+//taller 2 cuadrado Gil y Leon 
 // punto1
 var areaCua;
  areaCua=prompt("ingrese la medida de un lado del cuadrado");
@@ -42,42 +42,42 @@ h=prompt ("ingrese la altura");
 var areaTrapezoide= 1/2*(base1+base2)*h
 console.log ("el area de su trapezoide es", areaTrapezoide);
 // punto5
-var largoPiscina
-var anchoPiscina
-var profundidadPiscina
-var litrosPiscina
-largoPiscina=prompt("ingrese el largo de la piscina")
-anchoPiscina=prompt("ingrese el ancho de la piscina")
-profundidadPiscina=prompt("ingrese la profundidad de la piscina")
-litrosPiscina= anchoPiscina*largoPiscina*profundidadPiscina
-console.log ("usted necesitaria ", litrosPiscina, "litros paara llenar su piscina")
+var largoPiscina;
+var anchoPiscina;
+var profundidadPiscina;
+var litrosPiscina;
+largoPiscina=prompt("ingrese el largo de la piscina");
+anchoPiscina=prompt("ingrese el ancho de la piscina");
+profundidadPiscina=prompt("ingrese la profundidad de la piscina");
+litrosPiscina= anchoPiscina*largoPiscina*profundidadPiscina;
+console.log ("usted necesitaria ", litrosPiscina, "litros paara llenar su piscina");
 // punto6
-var alturaPared
-var anchoPared
-var precio
-alturaPared=prompt("ingrese la altura de la pared")
-anchoPared=prompt("ingrese el ancho de la pared")
-precio= (anchoPared*alturaPared)*22000
-console.log ("su total a pagar es ", precio)
+var alturaPared;
+var anchoPared;
+var precio;
+alturaPared=prompt("ingrese la altura de la pared");
+anchoPared=prompt("ingrese el ancho de la pared");
+precio= (anchoPared*alturaPared)*22000;
+console.log ("su total a pagar es ", precio);
 // punto7
 // a
-var centimetros
-var km
-centimetros=prompt("ingrese los cm que necesita covertir")
-km= centimetros/100000
-console.log("su cantidad convertida a km es",km)
-var decilitros
-var Litr
-decilitros=prompt("ingrese los decilitros que necesita convertir")
-Litr= decilitros/10
-console.log ("su cantidad convertida a Litro es", Litr)
-var microgramos
-var G
-microgramos=prompt("ingrese los microgramos que desea convertir")
-G= microgramos/1000000
-console.log ("su cantidad comvertida en gramos es", G)
-var km2
-var milimetros
-km2=prompt("ingrese los km que desea convertir")
-milimetros=km2*1000000
-console.log("su cantidad convertida a milimetros es", milimetros)
+var centimetros;
+var km;
+centimetros=prompt("ingrese los cm que necesita covertir");
+km= centimetros/100000;
+console.log("su cantidad convertida a km es",km);
+var decilitros;
+var Litr;
+decilitros=prompt("ingrese los decilitros que necesita convertir");
+Litr= decilitros/10;
+console.log ("su cantidad convertida a Litro es", Litr);
+var microgramos;
+var G;
+microgramos=prompt("ingrese los microgramos que desea convertir");
+G= microgramos/1000000;
+console.log ("su cantidad comvertida en gramos es", G);
+var km2;
+var milimetros;
+km2=prompt("ingrese los km que desea convertir");
+milimetros=km2*1000000;
+console.log("su cantidad convertida a milimetros es", milimetros);
