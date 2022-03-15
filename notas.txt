@@ -1,0 +1,11 @@
+Taller 1: Nota 4
+    * El comentario en línea que se pide en el primer punto, no está.
+    * la variable gradoEstudiante debía ser inicializada en el renglon 7
+    * El valor de la variable nombreEstudiante debía ser asignado, no inicializado. No era necesario la palabra VAR
+    * La variable edadEstudiante ya existe, no era necesario la palabra VAR
+    * La línea 13 sobra
+
+Taller 2: Nota 4.5
+    * Debe crear variables para cada dato que pide, no utilice solo una para todo en el primer punto
+    * Punto 3, debía pedir el diametro
+    * mensaje 29 incorrecto
