@@ -110,3 +110,24 @@ nombre[0]="P";
 console.log(nombre);
 nombre="Lionel";
 console.log(nombre);
+
+//parseo o casting
+/*
+*a entero parseInt()
+*a decimal parseFloat()
+*a cadena String()*/
+// convertir variable
+
+var entero1= prompt("ingrese un entero ");
+var entero2= prompt ("ingrese otro entero ");
+var sumaE = entero1 + entero2;
+console.log ("sin parseInt "+ sumaE);
+// forma1 
+// convertir el dato justo en el momento que se recibe por teclado
+// esto implica que cuando se llame la variable ya este converetida al tipo de dato deseado
+entero1= prompt("ingrese un entero ");
+entero2= prompt ("ingrese otro entero ");
+sumaE = entero1 + entero2;
+
+
+

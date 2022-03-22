@@ -26,7 +26,7 @@ console.log ("el perimetro del rectangulo es ", perimetro);
 var radioCirculo;
 radioCirculo=prompt("ingrese el radio del circulo");
 radioCirculo= radioCirculo**2*3.1416;
-console.log("el area de es cuadrado es ", radioCirculo);
+console.log("el area del circulo es ", radioCirculo);
 var volumenEsfera;
 volumenEsfera=prompt("ingrese el valor del radio de la esfera ");
 volumenEsfera= (4/3)*3.1416*(volumenEsfera**3);
