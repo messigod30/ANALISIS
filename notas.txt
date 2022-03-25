@@ -1,3 +1,5 @@
+samuel gil - Esteban Leon
+
 Taller 1: Nota 4
     * El comentario en línea que se pide en el primer punto, no está.
     * la variable gradoEstudiante debía ser inicializada en el renglon 7
@@ -9,3 +11,5 @@ Taller 2: Nota 4.5
     * Debe crear variables para cada dato que pide, no utilice solo una para todo en el primer punto
     * Punto 3, debía pedir el diametro
     * mensaje 29 incorrecto
+
+Taller 3 (Recuperación): Nota 5 
