@@ -57,3 +57,4 @@ if(diaSiguiente == "lunes" || diaSiguiente == "martes"){
 }
  
 console.log("Para la clase de mañana con el profesor Andres debe guardar el cuaderno de" +cuaderno);
+
