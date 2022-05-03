@@ -13,3 +13,11 @@ Taller 2: Nota 4.5
     * mensaje 29 incorrecto
 
 Taller 3 (Recuperación): Nota 5 
+
+****************************** segundo periodo
+taller 1: Nota 4.6
+    * linea 33, falta una condicion
+    * linea 36, condicion incompleta
+    * linea 110, sobra
+
+enlace examen: https://acortar.link/WAVSjX
