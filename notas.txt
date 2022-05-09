@@ -21,3 +21,9 @@ taller 1: Nota 4.6
     * linea 110, sobra
 
 enlace examen: https://acortar.link/WAVSjX
+
+Examen: Nota 4.5
+    * linea 21, falto = en la segunda condicion
+    * linea 34, incorrecto
+    * punto 5, no existe mensaje para una palabra que aún no tiene traduccion
+    * punto 6, sin resolver, no tiene puntos
