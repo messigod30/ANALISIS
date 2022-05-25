@@ -22,8 +22,26 @@ taller 1: Nota 4.6
 
 enlace examen: https://acortar.link/WAVSjX
 
-Examen: Nota 4.5
+Examen condicionales: Nota 4.5
     * linea 21, falto = en la segunda condicion
     * linea 34, incorrecto
     * punto 5, no existe mensaje para una palabra que aún no tiene traduccion
     * punto 6, sin resolver, no tiene puntos
+
+Taller while: nota 4.2
+    * punto 5 debe ser más claro en el mensaje para que el usuario sepa como detener el ciclo
+    * linea 57, el mensaje no tiene que ver con lo que debía imprimir
+    * punto 7, no cuenta el número de intentos
+    * linea 81, las notas deben ser parseFloat
+    * linea 82, la variable VNotas no tiene ningun valor
+    * linea 85, ¿qué hace?
+    * linea 89 y 91, == ?
+    * punto 8 no suma bonus
+    * no hizo el 9
+
+examen while: nota 3.2
+    * punto 4, suma dos veces el precio lineas 46 y 48
+    * la condicion para el descuento debe ir fuera del ciclo. Si no compra más de ocho debe cobrarle igual, no hay mensaje para eso
+    * punto 5, ciclo infinito linea 69
+    * nopaso no está inicializado, nunca va a incrementar un vacío
+    * la condicion de si gano es mayor a no paso debe ir fuera del ciclo
