@@ -48,7 +48,3 @@ for (var i=0; i<5; i+=1){
 }
 
 //punto 6
-var ArregloArticulo;
-for(var i=0; i<5; i=+1){
-    var nombre=prompt("ingrese el nombre del articulo")
-}
