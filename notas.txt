@@ -27,4 +27,8 @@ Examen: Nota 4.5
     * linea 34, incorrecto
     * punto 5, no existe mensaje para una palabra que aún no tiene traduccion
     * punto 6, sin resolver, no tiene puntos
+
+ciclo for: Nota 4
+    * punto 1, su solucion solo funciona si los numeros están en orden. Debe funcionar aún en desorden
+    * falta punto 6
     
