@@ -48,3 +48,9 @@ for (var i=0; i<5; i+=1){
 }
 
 //punto 6
+var nombreArticulos = prompt("ingrese el nombre de un producto para conocer el precio");
+for(var i=0; i<arregloNombres.length; i++){
+    if(arregloNombres[i]==nombreArticulos){
+        console.log(("el precio de" + nombreArticulos+" es $") + ArregloPrecios[i]);
+    }
+}
