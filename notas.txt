@@ -32,3 +32,12 @@ ciclo for: Nota 4
     * punto 1, su solucion solo funciona si los numeros están en orden. Debe funcionar aún en desorden
     * falta punto 6
     
+
+
+Geometría:
+    Nota: No recibido
+    
+
+cuarto periodo:
+taller 1:
+    nota: 5
